@@ -22,3 +22,7 @@ git add - for adding files to git -
 git commit - comment on the files -
 git push - push the changes onto github - 
 git pull - pull the changes from github -
+git branch - see which branches there are - 
+git branch newbranch - creates a new branch called newbranch - 
+git checkout newbranch - will go into newbranch - 
+git checkout -b newbranch2 - will create and go into newbranch 2 -
