@@ -15,3 +15,10 @@ Here some screenshots can be added
 
 ### License 
 [GNU License] {LICENSE}
+
+### Important commands
+git status
+git add
+git commit
+git push
+git pull
