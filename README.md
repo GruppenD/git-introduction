@@ -17,8 +17,8 @@ Here some screenshots can be added
 [GNU License] {LICENSE}
 
 ### Important commands
-git status
-git add
-git commit
-git push
-git pull
+git status - for status - 
+git add - for adding files to git -
+git commit - comment on the files -
+git push - push the changes onto github - 
+git pull - pull the changes from github -
